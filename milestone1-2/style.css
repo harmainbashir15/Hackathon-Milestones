@@ -22,7 +22,7 @@ body {
     padding: 20px;
     width: 35%;
     text-align: center;
-    border-right: 5px solid #c97911;
+    border-right: 5px solid #ce9f1e;
 }
 
 .profile-picture {
@@ -30,7 +30,7 @@ body {
     height: 150px;
     margin-top: 10%;
     border-radius: 50%;
-    border: 5px solid #c97911;
+    border: 5px solid #ce9f1e;
     margin-bottom: 20px;
 }
 
@@ -47,7 +47,7 @@ h3 {
     margin: 20px 0 10px;
     color: black;
     border-radius: 10px;
-    box-shadow: 0 0 15px #c97911;
+    box-shadow: 0 0 15px  #fdba01;
     margin-top: 5%;
     margin-bottom: 5%;
 }
@@ -78,5 +78,5 @@ button {
 }
 
 button:hover {
-    background-color: #c97911;
+    background-color: #fdba01;
 }
